@@ -1,6 +1,5 @@
+
 # TheEvent
-An Web engineering project that includes all aspects of FullStack set of skills
-# Project Name
 
 TheEvent is a web engineering project that includes a frontend developed using HTML, CSS, and Bootstrap, with a backend developed using EJS, NodeJS, and MongoDB. The project implements 5 API endpoints for data handling.
 
